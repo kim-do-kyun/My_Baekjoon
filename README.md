@@ -10,6 +10,7 @@
 |1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/README.md)|
 |1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/README.md)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
+|2750. 수 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2750.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/README.md)|
 |9093. 단어 뒤집기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9093.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
