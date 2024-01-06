@@ -61,5 +61,10 @@
 
 <p>※ 2023년 07월 31일 테스트 케이스가 추가되었습니다. 기존에 제출한 코드가 통과하지 못할 수 있습니다.</p>
 
+### 풀이
+1. people 리스트를 정렬
+2. start와 end를 리스트의 맨처음, 맨마지막으로 지정
+3. 두명씩 구출할 수 있는 지 확인으로 people[start] + people[end]의 값이 limit를 넘는지 확인
+4. 넘지 않은경우 탑승, 넘으면 몸무게가 많은 사람만 탑승
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
