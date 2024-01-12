@@ -9,6 +9,7 @@
 | ----- | ----- |
 |1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.java)|
 |1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/A%EF%BC%8DB.java)|
+|10101. 삼각형 외우기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10101.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%99%B8%EC%9A%B0%EA%B8%B0/%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%99%B8%EC%9A%B0%EA%B8%B0.py)|
 |10998. A×B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10998.%E2%80%85A%C3%97B/A%C3%97B.py)|
 |1924. 2007년|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1924.%E2%80%852007%EB%85%84/2007%EB%85%84.py)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
