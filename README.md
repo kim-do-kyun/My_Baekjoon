@@ -55,6 +55,10 @@
 |5585. 거스름돈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5585.%E2%80%85%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/README.md)|
 |8958. OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/README.md)|
 |9093. 단어 뒤집기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9093.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/README.md)|
+### 🚀 Bronze I
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1032. 명령 프롬프트|[링크](./%EB%B0%B1%EC%A4%80/Bronze%20I/1032.%E2%80%85%EB%AA%85%EB%A0%B9%E2%80%85%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/README.md)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
 | ----- | ----- |
