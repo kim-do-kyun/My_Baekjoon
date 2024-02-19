@@ -107,6 +107,7 @@
 |10211. Maximum Subarray|[링크](./%EB%B0%B1%EC%A4%80/Silver/10211.%E2%80%85Maximum%E2%80%85Subarray/README.md)|
 |1026. 보물|[링크](./%EB%B0%B1%EC%A4%80/Silver/1026.%E2%80%85%EB%B3%B4%EB%AC%BC/README.md)|
 |1049. 기타줄|[링크](./%EB%B0%B1%EC%A4%80/Silver/1049.%E2%80%85%EA%B8%B0%ED%83%80%EC%A4%84/README.md)|
+|1051. 숫자 정사각형|[링크](./%EB%B0%B1%EC%A4%80/Silver/1051.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/README.md)|
 |1057. 토너먼트|[링크](./%EB%B0%B1%EC%A4%80/Silver/1057.%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/README.md)|
 |10610. 30|[링크](./%EB%B0%B1%EC%A4%80/Silver/10610.%E2%80%8530/README.md)|
 |1065. 한수|[링크](./%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98/README.md)|
